@@ -6,8 +6,8 @@ import (
 	"strings"
 
 	"github.com/stardustapp/dustgo/lib/base"
-	"github.com/stardustapp/dustgo/lib/skylink"
 	"github.com/stardustapp/dustgo/lib/inmem"
+	"github.com/stardustapp/dustgo/lib/skylink"
 )
 
 func main() {
