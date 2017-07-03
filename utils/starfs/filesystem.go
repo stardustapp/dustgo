@@ -2,9 +2,9 @@ package main
 
 import (
 	"log"
+	"path"
 	"strings"
 	"time"
-	"path"
 
 	"github.com/stardustapp/dustgo/lib/base"
 	"github.com/stardustapp/dustgo/lib/inmem"
