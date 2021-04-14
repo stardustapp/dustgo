@@ -10,7 +10,7 @@ import (
 func SelfURI(suffix string) (string, error) {
 	selfIp := GetLocalIP()
 	if selfIp == "" {
-		log.Println("SelfURI Oops 2:", err)
+		log.Println("SelfURI didn't locate any host IPs")
 		return "", errors.New("SelfURI didn't locate any host IPs")
 	}
 
