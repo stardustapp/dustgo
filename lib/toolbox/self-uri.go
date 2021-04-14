@@ -4,7 +4,6 @@ import (
 	"errors"
 	"log"
 	"net"
-	"os"
 )
 
 // Build cluster-wide absolute URI prefix to the current process
