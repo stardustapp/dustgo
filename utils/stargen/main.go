@@ -6,8 +6,8 @@ import (
 
 	"github.com/stardustapp/dustgo/lib/toolbox"
 
-	stargen "github.com/stardustapp/dustgo/lib/utils/stargen/common"
-	"github.com/stardustapp/dustgo/lib/utils/stargen/platforms"
+	stargen "github.com/stardustapp/dustgo/utils/stargen/common"
+	"github.com/stardustapp/dustgo/utils/stargen/platforms"
 )
 
 func main() {

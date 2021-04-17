@@ -1,7 +1,7 @@
 package platforms
 
 import (
-	stargen "github.com/stardustapp/dustgo/lib/utils/stargen/common"
+	stargen "github.com/stardustapp/dustgo/utils/stargen/common"
 )
 
 func CountPlatforms() int {

@@ -11,7 +11,7 @@ import (
 	"github.com/stardustapp/dustgo/lib/extras"
 	"github.com/stardustapp/dustgo/lib/inmem"
 
-	stargen "github.com/stardustapp/dustgo/lib/utils/stargen/common"
+	stargen "github.com/stardustapp/dustgo/utils/stargen/common"
 )
 
 func init() {

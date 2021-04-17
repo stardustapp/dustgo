@@ -5,7 +5,7 @@ import (
 	"log"
 	"time"
 
-	"gopkg.in/resty.v0"
+	"gopkg.in/resty.v1"
 )
 
 // Context for a stateless HTTP-based NS client

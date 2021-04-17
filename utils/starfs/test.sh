@@ -3,7 +3,7 @@
 template=$(pwd)/vue-webpack
 
 #pkill starfs
-go install github.com/stardustapp/dustgo/lib/utils/starfs
+go install github.com/stardustapp/dustgo/utils/starfs
 starfs --stardust-base $STARDUST_BASE_URI &
 StarFsPid=$!
 sleep 2s
